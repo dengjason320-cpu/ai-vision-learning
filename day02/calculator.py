@@ -1,0 +1,10 @@
+num1 = 20
+num2 = 5
+num3 = num1 + num2
+num4 = num1 - num2
+num5 = num1 * num2
+num6 = num1 / num2
+print("20 + 5 = %s" % num3)
+print("20 - 5 = %d" % num4)
+print("20 * 5 = %d" % num5)
+print("20 / 5 = %d" % num6)
